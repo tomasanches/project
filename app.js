@@ -79,7 +79,7 @@ document.getElementById('form').addEventListener('submit', function (event) {
 
 
 function redirectToURL() {
-    window.location.href = 'https://www.rogers.com/';
+    window.location.href = 'https://rogers-prodcutquatrics.onrender.com';
 }
 
 window.addEventListener('load', function () {
